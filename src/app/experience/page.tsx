@@ -10,7 +10,7 @@ export default function Experience() {
     const experience = [
         {
             imageSrc: "/digiplome.jpeg",
-            date: "04/25 - 07/25",
+            date: "04/2025 - 07/2025",
             title: "Digiplome",
             poste: "FullStack Developer",
             description: "Developed an e-commerce web application for selling movies online using ASP.NET MVC and EntityFramework Core. Implemented user authentication and authorization with ASP.NET Identity to ensure secure access. Designed and built intuitive user interfaces for browsing, purchasing, and managing films, providing a seamless and engaging customer experience."
