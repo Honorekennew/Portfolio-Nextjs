@@ -21,7 +21,7 @@ export default function Menu() {
           <Link
             key={item}
             href={href}
-            className={`font-medium transition-colors duration-300 
+            className={`font-medium transition-colors duration-300 whitespace-nowrap
                         ${isActive ? "text-[#23A1B5]" : "text-white"} 
                         hover:text-[#23A1B5]`}
           >
@@ -32,7 +32,7 @@ export default function Menu() {
 
       <Link
         href="/#education"
-        className="font-medium transition-colors duration-300 cursor-pointer hover:text-[#23A1B5]"
+        className="font-medium transition-colors duration-300 cursor-pointer whitespace-nowrap hover:text-[#23A1B5]"
       >
         Education
       </Link>

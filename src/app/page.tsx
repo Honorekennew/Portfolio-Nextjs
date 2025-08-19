@@ -8,8 +8,8 @@ import FadeInOnScroll from "./components/FadeInScrollProps";
 import MobileWarning from "./components/MobileWarning";
 export default function Home() {
   const images = [
-    "Paysage2.jpg", "ville.jpg", "sport2.jpg", "voyage.jpg",
-    "sport1.jpg", "paysage5.jpg", "visite.jpg", "sport3.jpg", "Paysage.jpg",
+    "Paysage2.jpg", "Ville.jpg", "sport2.jpg", "voyage.jpg",
+    "sport1.jpg", "Paysage5.jpg", "visite.jpg", "sport3.jpg", "Paysage.jpg",
   ];
 
   return (
