@@ -12,7 +12,7 @@ export default function Education() {
         </div>
 
         <div className="mt-0 ml-2 text-gray-300 text-base break-words">
-          Parcours académique qui a façonné mon parcours en tant que développeur.
+          Academic journey that shaped my path as a developer.
         </div>
 
         {/* Item HETIC */}
