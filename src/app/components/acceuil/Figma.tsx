@@ -20,7 +20,7 @@ export default function Figma() {
                 className="mt-3 ml-2 text-gray-300 text-base w-[90%] leading-7 break-words"
                 style={{ fontFamily: "var(--font-inter)" }}
             >
-                Une collection diversifiée de prototypes, interfaces conceptuelles et designs réels, soigneusement réalisés dans Figma pour garantir une expérience fluide et agréable aux utilisateurs sur toutes les plateformes.
+               A diverse collection of prototypes, conceptual interfaces, and real designs, carefully crafted in Figma to ensure a smooth and enjoyable user experience across all platforms.
             </div>
 
             <div className="mt-5" style={{ fontFamily: "var(--font-inter)" }}>
