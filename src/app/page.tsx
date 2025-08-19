@@ -43,7 +43,7 @@ export default function Home() {
                   className="w-[95%] mt-4 flex justify-center items-center gap-2 bg-[#252529] text-white px-5 py-2 rounded-[5px] hover:bg-[#252529]/60 transition-colors duration-300"
                   style={{ fontFamily: "var(--font-inter)" }}
                 >
-                  <span>Télécharger le CV</span>
+                  <span>Download CV</span>
                   <span className="transform rotate-90">→</span>
                 </a>
               </div>
