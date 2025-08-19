@@ -31,7 +31,9 @@ export default function Education() {
           <div className="mt-9">
             <span className="text-gray-300 text-sm font-medium" style={{ fontFamily: "var(--font-inter)" }}>INSTA</span>
             <div className="flex justify-between w-[300px] text-gray-400 text-xs">
-              <span className="w-[50%]" style={{ fontFamily: "var(--font-inter)" }}>Bachelor Concepteur Développeur d'Applications</span>
+              <span className="w-[50%]" style={{ fontFamily: "var(--font-inter)" }}>
+                Bachelor Concepteur Développeur d&apos;Applications
+              </span>
               <span className="ml-4" style={{ fontFamily: "var(--font-inter)" }}>09/2024 - 07/2025</span>
             </div>
           </div>

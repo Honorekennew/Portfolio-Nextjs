@@ -5,7 +5,7 @@ import { usePathname } from "next/navigation";
 const menuItems = ["About", "Project", "Experience"];
 
 export default function Menu() {
-  const pathname = usePathname(); 
+  const pathname = usePathname();
 
   return (
     <div
@@ -30,12 +30,12 @@ export default function Menu() {
         );
       })}
 
-      <a
+      <Link
         href="/#education"
         className="font-medium transition-colors duration-300 cursor-pointer hover:text-[#23A1B5]"
       >
         Education
-      </a>
+      </Link>
     </div>
   );
 }
