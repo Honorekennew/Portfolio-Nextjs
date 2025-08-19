@@ -30,7 +30,7 @@ export default function MobileWarning({ children }: { children: React.ReactNode 
           style={{ width: 150, height: 150 }}
         />
         <span className="text-gray-200 text-2xl leading-8">
-          Bonjour ! Mon portfolio n'est pas encore optimisé pour les appareils mobiles, mais il le sera bientôt. En attendant, merci de le consulter depuis un ordinateur Merci !!!
+          Bonjour ! Mon portfolio n&apos;est pas encore optimisé pour les appareils mobiles, mais il le sera bientôt. En attendant, merci de le consulter depuis un ordinateur Merci !!!
         </span>
       </div>
     );
