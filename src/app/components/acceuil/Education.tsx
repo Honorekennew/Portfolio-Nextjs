@@ -19,7 +19,10 @@ export default function Education() {
         <div className="flex items-center space-x-4 mt-8">
           <img src="hetic.jpeg" alt="HETIC" className="w-[40px] h-[40px] mt-2 rounded-full" />
           <div className="flex-1">
-            <span className="text-gray-300 text-sm font-medium break-words" style={{ fontFamily: "var(--font-inter)" }}>
+            <span
+              className="text-gray-300 text-sm font-medium break-words"
+              style={{ fontFamily: "var(--font-inter)" }}
+            >
               HETIC
             </span>
             <div className="flex justify-between text-gray-400 text-xs flex-wrap">
