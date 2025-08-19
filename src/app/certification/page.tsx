@@ -9,7 +9,7 @@ export default function Certification () {
         {
             imageSrc: "/Udemy.jpeg",
             title: "ASP.NET CORE MVC | Build a Complete eCommerce App",
-            link:"https://drive.google.com/file/d/1ZQ31uQCvngLOMvVIXrb3BjFWSyUmeAgC/view?usp=drive_link",
+            link:"https://drive.google.com/file/d/1ZQ31uQCvngLOMvVIXrb3BjFWSyUmeAgC/view?usp=sharing",
             description: "Practical skills acquired through a Udemy course, covering .NET MVC, Entity Framework Core, RESTful services, .NET Identity, PayPal integration, and Azure deployment.",
         },
     ]
