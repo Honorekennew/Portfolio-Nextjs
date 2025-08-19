@@ -17,14 +17,14 @@ export default function Experience() {
         },
         {
             imageSrc: "/MediaPress.jpeg",
-            date: "05/24 - 12/24",
+            date: "05/2024 - 12/2024",
             title: "Media Press Africa",
             poste: "Frontend Developer",
             description: "Designed and developed a mobile application for a Cameroonian television channel specializing in economic and political news. The app allows users to read articles, filter content by category, watch replay shows via the YouTube API, and follow the channel live through a streaming feed.Responsible for requirements analysis, technical design, development, and integration of RESTful APIs to ensure seamless communication between the mobile app and the official channel website."
         },
         {
             imageSrc: "/Work.jpeg",
-            date: "07/23 - 02/24",
+            date: "07/2023 - 02/2024",
             title: "Tec Alpha",
             poste: "Frontend Developer",
             description: "Responsible for designing and developing a personal financial management mobile application. Designed and developed the user interface for a smooth and intuitive experience, and integrated APIs for transaction and financial data management."
